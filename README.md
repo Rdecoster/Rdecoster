@@ -12,5 +12,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdecoster)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rdecoster&count_private=true)
+![Ryanss github stats](https://github-readme-stats.vercel.app/api?username=Rdecoster&count_private=true)
 

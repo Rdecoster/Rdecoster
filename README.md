@@ -21,7 +21,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
-[![Node.js](https://img.shields.io/badge/-Node-dot-js-339933?style=flat-square&logo=Nodedotjs&logoColor=ffffff)](https://www.nodejs.org/)
+https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node-dot-js&logoColor=ffffff)](https://www.nodejs.org/
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 
@@ -31,7 +31,7 @@
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
-[![Node.js](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.https://aws.amazon.com/)
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 

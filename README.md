@@ -21,13 +21,18 @@
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
+[![Node.js](https://img.shields.io/badge/-Node-dot-js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.nodejs.org/)
+
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
-[![MongoDB](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.facebook.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=ffffff)](https://www.https://www.postgresql.org/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+[![Node.js](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=Node.js&logoColor=ffffff)](https://www.https://aws.amazon.com/)
+
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 

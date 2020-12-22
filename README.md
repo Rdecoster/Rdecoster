@@ -20,7 +20,7 @@
 
 [![CSS3](https://img.shields.io/badge/-CSS3-339933?style=flat-square&logo=CSS3&logoColor=ffffff)]()
 
-[![styled-components](https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)](https://styled-components.com/)
+[![styled-components](https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styled---components&logoColor=ffffff)](https://styled-components.com/)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 

@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I my college days I was my departments brew master and ran the schools 2.5BBL infusion brews system for club brew days.
 
 ## Technology Stack
+
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://www.reactjs.org/)
+
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)

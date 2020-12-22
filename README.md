@@ -30,7 +30,7 @@
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
-[![AWS](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff)](https://www.https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)](https://www.https://aws.amazon.com/)
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 

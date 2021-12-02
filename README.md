@@ -24,7 +24,12 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 [![AWS](https://img.shields.io/badge/-amazonaws-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)](https://www.https://aws.amazon.com/)
+[![IBM](https://img.shields.io/badge/-IBM%20Cloud-4479A1?style=flat-square&logo=IBM&logoColor=ffffff)](https://www.ibm.com/)
+[![RedHat](https://img.shields.io/badge/-Red%20Hat%20Open%20Shift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=ffffff)](https://redhat.com/)
+
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![K8](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+
 
 
 

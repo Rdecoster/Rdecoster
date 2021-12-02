@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on personal projects and contributing where I can.
-- 🌱 I’m currently learning TypeScript, Python, Angular
-- 👯 I’m looking to collaborate on those who have an intrest in applying new technologies to the food industry.
+- 🔭 I'm a Cloud Native Engineer at IBM.
+- - 🌱 I’m currently working on my skills in TypeScript, Python, Java
+- 👯 I’m looking to collaborate with those who have an intrest in applying new technologies to the food industry.
 - 💬 Ask me about anything!
 - 📫 How to reach me: <a href = "mailto: ryandecoster@gmail.com">Send Email</a>
 - 😄 Pronouns: He/Him

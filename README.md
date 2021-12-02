@@ -31,6 +31,8 @@
 [![K8](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
 
+<!---website for logoscolor and search https://simpleicons.org/?q=kuber--->
+
 
 
 ## Stats

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm a Cloud Native Engineer at IBM.
+- 🔭 I'm a Software Engineer at IBM.
 - - 🌱 I’m currently working on my skills in TypeScript, Python, Java
 - 👯 I’m looking to collaborate with those who have an intrest in applying new technologies to the food industry.
 - 💬 Ask me about anything!
